@@ -1,5 +1,5 @@
 h1{
     transition-duration: 60s;
     transition-property: color; 
-    color: rgba(red, green, blue, alpha);
+    color: rgba(red, green, blue);
 }
