@@ -1,5 +1,5 @@
 h1{
     transition-duration: 5s;
     transition-property: color; 
-    color: yellow;
+    color: gray;
 }
