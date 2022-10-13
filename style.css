@@ -1,3 +1,5 @@
 h1{
-    color: blue;
+    transition-duration: 60s;
+    transition-property: color; 
+    color: rgba(red, green, blue, alpha);
 }
