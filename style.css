@@ -1,5 +1,5 @@
 h1{
     transition-duration: 5s;
     transition-property: color; 
-    color: red, black, green, blue, magenta, cyan, yellow;
+    color: blue;
 }
